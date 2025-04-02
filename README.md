@@ -18,7 +18,7 @@
 
 3) [12 hóspedes (R$6872)](https://www.airbnb.com.br/rooms/742011706501148069?adults=12&check_in=2025-05-01&check_out=2025-05-04&search_mode=regular_search&source_impression_id=p3_1743598153_P3TF-Czhm3VwmftH&previous_page_section_name=1000&federated_search_id=3593682a-d89e-4f9c-86a4-8987a936e05a)
 
-4) [12 hóspedes (R$7750)](https://www.airbnb.com.br/rooms/32380659?adults=12&check_in=2025-05-01&check_out=2025-05-04&search_mode=regular_search&source_impression_id=p3_1743598153_P3v5pseCWsJA2Y9G&previous_page_section_name=1000&federated_search_id=3593682a-d89e-4f9c-86a4-8987a936e05a)
+4) [14 hóspedes (R$7750)](https://www.airbnb.com.br/rooms/32380659?adults=12&check_in=2025-05-01&check_out=2025-05-04&search_mode=regular_search&source_impression_id=p3_1743598153_P3v5pseCWsJA2Y9G&previous_page_section_name=1000&federated_search_id=3593682a-d89e-4f9c-86a4-8987a936e05a)
 
 ## Maresias
 
